@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m Bimal Dhungana.<br>    👀 I’m interested in learning new things every day.<br>    🌱 I’m currently learning web development along with java.<br>    💞️ I’m looking to collaborate on open soures related to web development.<br><br>
+<br>    👋 Hi, I’m Bimal Dhungana.<br>    👀 I’m interested in learning new things every day.<br>    🌱 I’m currently learning web development along with python.<br>    💞️ I’m looking to collaborate on open soures related to web development and rest apis made using Fast API.<br><br>
 
 
 # 💻 Tech Stack:
